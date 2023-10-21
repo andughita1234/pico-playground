@@ -13,7 +13,7 @@
 #include "pico/scanvideo/composable_scanline.h"
 #include "pico/sync.h"
 
-#define vga_mode vga_mode_320x240_60
+#define vga_mode vga_mode_640x480_60
 
 void core1_func();
 
